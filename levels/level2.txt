@@ -30,6 +30,6 @@ W     W    W                   W
 W          W        W    W     W
 W     WWWWWW        W    W     W
 W     W             W    W     W
-WWWWWWW  WWWWWWWWWWWW        WWW 
+WWWWWWW  WWWWWWWWWWWW       WWWW 
 W        W                     W
 WWWWWWWWWWWWWWWWWWWWWWWWWWEWWWWW
